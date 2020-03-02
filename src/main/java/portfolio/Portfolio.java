@@ -1,5 +1,11 @@
-package portfolio;
+package java.portfolio;
 
-public class Portfolio {
+import portfolio.investments.Investment;
+
+public class Portfolio<T extends Investment> {
     //TODO Complete this implementation and make it generic
+
+
+
+
 }
